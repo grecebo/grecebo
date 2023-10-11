@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grecebo.
-- 🔬 I’m interested in Data Analysis and Science.
+- 🔬 I’m interested in Data Analytics and Science.
 - 🇳🇴 I’m currently learning Norwegian.
 - 👀 Looking for a Junior Data Analyst position.
 
